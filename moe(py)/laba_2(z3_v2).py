@@ -41,4 +41,4 @@ def newt(x0, y0, f, g, eps):
         y0 = y1
 
 
-print(newt(5, f, g, 0.0001))
+print(newt(5, 5, f, g, 0.0001))
